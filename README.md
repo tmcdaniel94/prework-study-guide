@@ -1,4 +1,4 @@
- # <Prework Study Guide Webpage for University of Texas' Fullstack Bootcamp>
+ # Prework Study Guide Webpage for University of Texas' Fullstack Bootcamp
 
 ## Description
 
@@ -6,9 +6,7 @@ This prework study guide was created with the intention of recording important n
 
 ## Usage
 
-This study guide is meant to be used as a catalogue of notes for certain topics, such as: HTML, CSS, JavaScript, Git, etc. You can view the JavaScript components in action (and to help decide what to study first!) by opening the Console tab in Chrome DevTools.
-
-![alt text](assets/images/screenshot.png)
+This study guide is meant to be used as a catalogue of notes for certain topics, such as: HTML, CSS, JavaScript, Git, etc. You can view the JavaScript components in action (and to help decide what to study first!) by opening the Console tab in DevTools.
 
 ## Credits
 
